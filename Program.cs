@@ -6,8 +6,7 @@ namespace farukh
     {
         static void Main(string[] args)
         {
-            ///////////N-2
-            Console.WriteLine(" Задания второе ");
+             Console.WriteLine(" Задания второе ");
             int a,b;
             Console.WriteLine("Введите первое число");
             a=Convert.ToInt32(Console.ReadLine());
@@ -15,9 +14,20 @@ namespace farukh
             b=Convert.ToInt32(Console.ReadLine());
             if(a!=b)
             {
-             Console.WriteLine("///////");
-             Console.WriteLine(a+1);
-             Console.WriteLine(b+1);
+              if(a>b)
+              {
+               Console.WriteLine("///////");
+               Console.WriteLine(a);
+               b=a;
+               Console.WriteLine(b);
+              }
+              else 
+              {
+                Console.WriteLine("///////");
+                a=b;
+                Console.WriteLine(a);
+                Console.WriteLine(b);
+              }
             }
              else
              {
