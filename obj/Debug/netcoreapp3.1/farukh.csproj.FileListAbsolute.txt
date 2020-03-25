@@ -1,0 +1,11 @@
+C:\Project6\farukh\bin\Debug\netcoreapp3.1\farukh.exe
+C:\Project6\farukh\bin\Debug\netcoreapp3.1\farukh.deps.json
+C:\Project6\farukh\bin\Debug\netcoreapp3.1\farukh.runtimeconfig.json
+C:\Project6\farukh\bin\Debug\netcoreapp3.1\farukh.runtimeconfig.dev.json
+C:\Project6\farukh\bin\Debug\netcoreapp3.1\farukh.dll
+C:\Project6\farukh\bin\Debug\netcoreapp3.1\farukh.pdb
+C:\Project6\farukh\obj\Debug\netcoreapp3.1\farukh.csprojAssemblyReference.cache
+C:\Project6\farukh\obj\Debug\netcoreapp3.1\farukh.AssemblyInfoInputs.cache
+C:\Project6\farukh\obj\Debug\netcoreapp3.1\farukh.AssemblyInfo.cs
+C:\Project6\farukh\obj\Debug\netcoreapp3.1\farukh.dll
+C:\Project6\farukh\obj\Debug\netcoreapp3.1\farukh.pdb
