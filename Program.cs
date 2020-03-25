@@ -100,7 +100,7 @@ namespace farukh
             }     
               if(a1>=51 && a1<=100)
             {
-              Console.WriteLine("[51,10012]");
+              Console.WriteLine("[51,100]");
    
             }  
              if(a1>100 || a1<0)
